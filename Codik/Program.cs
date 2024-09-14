@@ -10,6 +10,7 @@ namespace Codik
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("обнова 2");
         }
     }
 }
